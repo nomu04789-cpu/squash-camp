@@ -1,0 +1,87 @@
+body{
+    margin-bottom: 30px;
+    background:url("images/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment:fixed;
+}
+h1{
+    text-align: center;
+    font-weight:bold;
+    font-family: 'RocknRoll One', sans-serif;
+    color:#ff5722;
+    font-size:50px;
+}
+p{
+    margin-left:50px;
+}
+details{
+    margin-top: 10px;
+}
+summary{
+    font-family: 'Yomogi', cursive;
+    font-size: 30px;
+    color: #00a8cc;
+}
+table{
+    margin-top:30px;
+    margin-bottom:30px;
+    margin-left:50px;
+    border: 2px solid;
+    border-collapse: collapse;
+    background-color: rgba(255, 255, 255, 0.9);
+}
+th{
+    border:1px solid;
+    text-align: center;
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid;
+    text-align: center;
+    border-collapse: collapse;
+}
+div{
+    font-weight:bold;
+    font-size: larger;
+}
+iframe{
+    margin-left:50px;
+}
+
+@media (max-width: 600px) {
+  body {
+    padding: 10px;
+  }
+
+  /* 画面からはみ出ないようタイトルをスマホサイズに縮小 */
+  h1 {
+    font-size: 28px;
+  }
+
+  /* スマホに合わせて見出しも少し調整 */
+  summary {
+    font-size: 22px;
+  }
+
+  /* スマホでは左の余白(50px)をすべてリセットして画面を広く使う */
+  details, p, iframe, table {
+    margin-left: 0;
+  }
+
+  /* マップと表を横幅ぴったり広げる */
+  iframe {
+    width: 100%;
+    display: block;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  /* 表の文字サイズと余白をキュッと収まるように調整 */
+  th, td {
+    padding: 6px 4px;
+    font-size: 13px;
+  }
+}

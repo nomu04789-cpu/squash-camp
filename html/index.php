@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=RocknRoll+One&family=Yomogi&display=swap" rel="stylesheet">
+<meta name="robots" content="noindex,nofollow">
+<link rel="stylesheet" href="style01.css" type="text/css">
+<meta charset="utf-8">
+<title>スカッシュサークル合宿のしおり</title>
+</head>
+
+<body>
+<h1>合宿のしおり</h1>
+<hr>
+
+<details>
+    <summary>集合場所</summary>
+    <li>〒663-8204 兵庫県西宮市高松町２−２２ 兵庫県立芸術文化センター付近</li>
+    <p><div>9:45</div>までに集合してください</p>
+    <br>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2656.055937227255!2d135.3533925386211!3d34.74311496376153!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDQ0JzM2LjEiTiAxMzXCsDIxJzE4LjciRQ!5e0!3m2!1sja!2sjp!4v1786519337416!5m2!1sja!2sjp" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+</details>
+<details>
+    <summary>持ち物</summary>
+    <ul>
+    <li>タオル</li>
+    <li>歯ブラシ</li>
+    <li>水着（泳ぎたい人）</li>
+    <li>昼食代（２日目、３日目）</li>
+    <li>運動できる服</li>
+    <li>体育館シューズ</li>
+    </ul>
+</details>
+<details>
+    <summary>予定表</summary>
+    <table>
+        <tr>
+            <th colspan="2">１日目</th>
+        </tr>
+        <tr>
+            <td>9:30</td>
+            <td>集合</td>
+        </tr>
+        <tr>
+            <td>10:00</td>
+            <td>バス出発</td>
+        </tr>
+        <tr>
+            <td>12:55</td>
+            <td>白浜到着</td>
+        </tr>
+        <tr>
+            <td>13:00～17:00</td>
+            <td>運動会</td>
+        </tr>
+        <tr>
+            <td>18:00～21:00</td>
+            <td>BBQ</td>
+        </tr>
+        <tr>
+            <td>21:00～23:00</td>
+            <td>自由時間(入浴もこの間に)</td>
+        </tr>
+        <tr>
+            <td>23:00～</td>
+            <td>就寝</td>
+        </tr>
+        <tr>
+            <th colspan="2">２日目</th>
+        </tr>
+        <tr>
+            <td>8:00～9:00</td>
+            <td>朝食（宿）</td>
+        </tr>
+        <tr>
+            <td>10:00～</td>
+            <td>出発</td>
+        </tr>
+        <tr>
+            <td>11:00～14:00</td>
+            <td>白良浜 or 白浜エネルギーランド（昼食）</td>
+        </tr>
+        <tr>
+            <td>14:00～17:00</td>
+            <td>白良浜 or 白浜エネルギーランド</td>
+        </tr>
+        <tr>
+            <td>17:00～19:00</td>
+            <td>入浴・自由時間</td>
+        </tr>
+        <tr>
+            <td>19:00～23:00</td>
+            <td>夕食</td>
+        </tr>
+        <tr>
+            <td>23:00～</td>
+            <td>就寝</td>
+        </tr>
+        <tr>
+            <th colspan="2">３日目</th>
+        </tr>
+        <tr>
+            <td>8:00～9:00</td>
+            <td>朝食（宿）</td>
+        </tr>
+        <tr>
+            <td>9:00～10:30</td>
+            <td>帰宅準備</td>
+        </tr>
+        <tr>
+            <td>11:00～</td>
+            <td>バス出発</td>
+        </tr>
+        <tr>
+            <td>11:10～13:00</td>
+            <td>とれとれ市場（観光＆昼食）</td>
+        </tr>
+        <tr>
+            <td>13:10～</td>
+            <td>バス出発</td>
+        </tr>
+        <tr>
+            <td>16:00</td>
+            <td>到着</td>
+        </tr>
+
+    </table>
+</details>
+<details>
+    <summary>運動会スケジュール</summary>
+    <table>
+        <tr>
+            <th>時間</th>
+            <th>種目</th>
+        </tr>
+        <tr>
+            <td>13:00～13:30</td>
+            <td>自己紹介・準備運動</td>
+        </tr>
+        <tr>
+            <td>13:30～14:00</td>
+            <td>自己紹介・準備運動</td>
+        </tr>
+        <tr>
+            <td>13:00～13:30</td>
+            <td>自己紹介・準備運動</td>
+        </tr>
+        <tr>
+            <td>13:00～13:30</td>
+            <td>自己紹介・準備運動</td>
+        </tr>
+        <tr>
+            <td>13:00～13:30</td>
+            <td>自己紹介・準備運動</td>
+        </tr>
+
+</table>
+</details>
+
+</body>
+</html>
