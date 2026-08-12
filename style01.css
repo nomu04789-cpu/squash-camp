@@ -2,8 +2,8 @@ body{
     margin-bottom: 30px;
     background:url("images/background.jpg");
     background-repeat: no-repeat;
-    background-position: center;
-    background-attachment:fixed;
+    background-position: top;
+    background-attachment: fixed;
 }
 h1{
     text-align: center;
