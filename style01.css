@@ -47,6 +47,7 @@ div{
 }
 iframe{
     margin-left:50px;
+    margin-bottom:10px;
     border: 1px;
 }
 
@@ -66,8 +67,11 @@ iframe{
   }
 
   /* スマホでは左の余白(50px)をすべてリセットして画面を広く使う */
-  details, p, iframe, table {
+  details, iframe, table {
     margin-left: 0;
+  }
+  p{
+    margin-left:3px;
   }
 
   /* マップと表を横幅ぴったり広げる */
