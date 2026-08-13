@@ -68,10 +68,10 @@ iframe{
   }
 
   /* スマホでは左の余白(50px)をすべてリセットして画面を広く使う */
-  details, iframe, table {
+  details, p, iframe, table {
     margin-left: 0;
   }
-  p{
+  li{
     margin-left:3px;
   }
 
