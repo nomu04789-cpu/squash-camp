@@ -18,6 +18,9 @@ p{
 details{
     margin-top: 10px;
 }
+img{
+  margin: 5px,5px,5px,5px;
+}
 summary{
     font-family: 'Yomogi', cursive;
     font-size: 30px;
@@ -70,6 +73,12 @@ iframe{
   /* スマホでは左の余白(50px)をすべてリセットして画面を広く使う */
   details, p, iframe, table {
     margin-left: 0;
+  }
+  img{
+    max-width: 100%;
+    height:auto;
+    margin-left:10px;
+    margin-right:10px;
   }
   li{
     margin-left:10px;
