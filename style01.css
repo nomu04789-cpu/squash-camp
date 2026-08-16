@@ -40,6 +40,7 @@ th{
     text-align: center;
     border-collapse: collapse;
     background-color: #cf98ff;
+    font-weight: bold;
 }
 td{
     border: 1px solid;
